@@ -1,4 +1,4 @@
-<h3 align="center">Hello, I'm Anna, I'm becoming a frontend developer
+<h3 align="center">Hello, I'm Anna, I'm looking for a job as a Frontend Developer
 <img src="https://www.gifki.org/data/media/209/kot-i-koshka-animatsionnaya-kartinka-0498.gif" border="0" alt="kot-i-koshka-animatsionnaya-kartinka-0498" /height="60">
 </h3>
 <h2 align="center">Invite me for an interview</h2>
